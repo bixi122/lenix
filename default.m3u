@@ -1,4 +1,4 @@
-#EXTINF:0, Lumi Sound Test
+#EXTINF:0 logo="https://raw.githubusercontent.com/rz312/lumitv/master/lumi101.png" group-title="Lumi 101 Channels", Lumi Sound Test 
 https://raw.githubusercontent.com/rz312/lumitv/master/soundtest.mp3
-#EXTINF:0, Lumi Video Test Vol. 1
+#EXTINF:0 logo="https://raw.githubusercontent.com/rz312/lumitv/master/lumi101.png" group-title="Lumi 101 Channels", Lumi Video Test Vol. 1
 https://raw.githubusercontent.com/rz312/lumitv/master/TestVideo101.mp4
