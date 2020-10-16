@@ -9,4 +9,4 @@ https://raw.githubusercontent.com/rz312/lumitv/master/TestVideo101.mp4
 http://stream.revma.ihrhls.com/zc3299/hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://https://yt3.ggpht.com/a/AATXAJwQoPNwqUbfu_y7o7GWaeZgX8ovoHSYuWfbiJLR8g" tvg-country="US" tvg-url="" group-title="",Tech
-plugin://plugin.video.youtube/play/?playlist_id=$PLWprJ7DgUgfMu9HXoMyYFkdgE9lchRKV3&order=shuffle
+plugin://plugin.video.youtube/play/?playlist_id=PLWprJ7DgUgfMu9HXoMyYFkdgE9lchRKV3&order=shuffle
