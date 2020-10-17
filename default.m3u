@@ -8,5 +8,23 @@ https://raw.githubusercontent.com/rz312/lumitv/master/TestVideo101.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/54becebee4b05d09416fe7e4/1475275331705-8FDQGJ5FT59H9GOY4HT0/share_200x200.jpg" tvg-country="US" tvg-url="" group-title="",KISS 98.3 Winchester
 http://stream.revma.ihrhls.com/zc3299/hls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://https://yt3.ggpht.com/a/AATXAJwQoPNwqUbfu_y7o7GWaeZgX8ovoHSYuWfbiJLR8g" tvg-country="US" tvg-url="" group-title="",Tech
-plugin://plugin.video.youtube/play/?playlist_id=PLWprJ7DgUgfMu9HXoMyYFkdgE9lchRKV3&order=shuffle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.brandbucket.com/sites/default/files/logo_uploads/205189/large_laza.png" tvg-country="US" tvg-url="" group-title="Movies",Laza Movies
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tdUsA9FR6RvJwG32Of_4A-G&order=shuffle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tizzanawinery.square.site/uploads/b/7f96e9e0-7473-11ea-81d8-6d1325e25ffb/TizzanaVineyards_logo.jpg" tvg-country="US" tvg-url="" group-title="Entertainment",Tizzana
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tcdwoWgWsLSqqi8o_K80yeS&order=shuffle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/bixi122/lenix/master/bloomburg.png" tvg-country="US" tvg-url="" group-title="News",Bloomburg News
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tcdwoWgWsLSqqi8o_K80yeS&order=shuffle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/bixi122/lenix/master/nbc.png" tvg-country="US" tvg-url="" group-title="News",NBC News
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tc4vcrF-s36VHROk2V7eEgE&order=shuffle
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-country="US" tvg-url="" group-title="News",CNN
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tfHe4du9C1aIprte__uOQk3&order=shuffle
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-country="US" tvg-url="" group-title="Youtube On TV", YT Flamingo
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tdeHwpplRJ4_9-pDPxcsvg0&order=shuffle
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-country="US" tvg-url="" group-title="Youtube On TV", YT Bixily
+plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tf3ksRxcFaBtFZoQw1uXldG&order=shuffle
+
+
+
